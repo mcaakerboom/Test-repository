@@ -2,4 +2,4 @@
 
 Some  description!!
   
-change synchronize (nog een keer)   
+change synchronize
